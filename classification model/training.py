@@ -8,7 +8,7 @@ import tensorflowjs as tfjs
 
 tfjs_model_dir = 'model'
 
-
+# c
 # loading final csv file
 def load_csv(csv_path):
     df = pd.read_csv(csv_path)
